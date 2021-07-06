@@ -1,7 +1,9 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   target: 'static',
-  dir: 'docs',
+  generate: {
+    dir: 'docs',
+  },
   head: {
     title: 'iconsax-docs',
     htmlAttrs: {
