@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bold_like" data-name="vuesax/bold/like" transform="translate(-236 -316)">
+    <g id="like">
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(260 340) rotate(180)" fill="none" opacity="0"/>
+      <path id="Vector-2" data-name="Vector" d="M15,0H3A2.983,2.983,0,0,0,0,2.97V13.88a2.983,2.983,0,0,0,3,2.97h.76a2.988,2.988,0,0,1,2.12.87l1.71,1.69a2.022,2.022,0,0,0,2.83,0l1.71-1.69a3,3,0,0,1,2.12-.87H15a2.983,2.983,0,0,0,3-2.97V2.97A2.983,2.983,0,0,0,15,0ZM9.28,12.96a1.064,1.064,0,0,1-.56,0c-1.3-.45-4.22-2.3-4.22-5.45A2.5,2.5,0,0,1,9,6a2.5,2.5,0,0,1,4.5,1.51C13.49,10.66,10.58,12.51,9.28,12.96Z" transform="translate(239 318)" fill="#292d32"/>
+    </g>
+  </g>
+</svg>

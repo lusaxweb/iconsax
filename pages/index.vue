@@ -7,6 +7,7 @@
     </div>
     <Mil />
     <Icon-grid/>
+    <Icons />
     <License/>
     <Favorite/>
     <Footer />

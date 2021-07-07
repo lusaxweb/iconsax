@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_linear_message-text" data-name="vuesax/linear/message-text" transform="translate(-748 -314)">
+    <g id="message-text">
+      <path id="Vector" d="M14,0H6Q0,0,0,6V19a1,1,0,0,0,1,1H14q6,0,6-6V6Q20,0,14,0Z" transform="translate(750 316)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <g id="Group">
+        <path id="Vector-2" data-name="Vector" d="M0,0H10" transform="translate(755 323.5)" fill="#fff" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H7" transform="translate(755 328.5)" fill="#fff" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(748 314)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

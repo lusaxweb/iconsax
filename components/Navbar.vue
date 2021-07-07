@@ -14,16 +14,16 @@
             </div>
 
             <div class="icons">
-                <a href="">
+                <a href="https://www.behance.net/ManuelRovira" target="_blank">
                     <img src="/behance.svg" alt="">
                 </a>
-                <a href="">
+                <a href="https://dribbble.com/ManuelRovira" target="_blank">
                     <img src="/dribbble.svg" alt="">
                 </a>
                 <a href="https://github.com/lusaxweb/iconsax" target="_blank">
                     <img src="/github.svg" alt="">
                 </a>
-                <a href="">
+                <a href="https://www.instagram.com/iconsax/" target="_blank">
                     <img src="/instagram.svg" alt="">
                 </a>
             </div>

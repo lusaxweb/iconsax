@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_linear_gameboy" data-name="vuesax/linear/gameboy" transform="translate(-556 -380)">
+    <g id="gameboy">
+      <path id="Vector" d="M18,5V15c0,3-1.5,5-5,5H5c-3.5,0-5-2-5-5V5C0,2,1.5,0,5,0h8C16.5,0,18,2,18,5Z" transform="translate(559 382)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M10.25,6H1.75A1.758,1.758,0,0,1,0,4.25V1.75A1.758,1.758,0,0,1,1.75,0h8.5A1.758,1.758,0,0,1,12,1.75v2.5A1.758,1.758,0,0,1,10.25,6Z" transform="translate(562 385)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M2.3,0,0,2.3" transform="translate(564 395.28)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0,2.3,2.3" transform="translate(564.03 395.31)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H.02" transform="translate(572.49 395.33)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-6" data-name="Vector" d="M0,.02V0" transform="translate(570.49 397.48)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-7" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(556 380)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

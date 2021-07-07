@@ -1,0 +1,9 @@
+<svg id="Vuesax_Linear_Coin" data-name="Vuesax/Linear/Coin" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group">
+    <path id="Vector" d="M0,4.2A1.371,1.371,0,0,0,1.33,5.6h1.5A1.194,1.194,0,0,0,3.99,4.38,1.057,1.057,0,0,0,3.2,3.22L.8,2.38A1.055,1.055,0,0,1,0,1.22,1.194,1.194,0,0,1,1.16,0h1.5A1.379,1.379,0,0,1,4,1.4" transform="translate(8 7.2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0V.74" transform="translate(10 12.85)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0V.78" transform="translate(10 6.41)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Vector-4" data-name="Vector" d="M15.98,7.99A7.99,7.99,0,1,1,7.99,0,7.99,7.99,0,0,1,15.98,7.99Z" transform="translate(2 2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Vector-5" data-name="Vector" d="M0,6.88A4.952,4.952,0,1,0,6.93,0" transform="translate(12.98 13)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

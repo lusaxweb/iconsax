@@ -30,19 +30,27 @@
             </a>
             
             <a download="iconsax-ai.zip" href="/Iconsax/AI.zip" class="card">
-                <img src="/logos_herramientas/iconsax-ai.svg" width="90px" alt="">
+                <img src="/logos_herramientas/iconsax-ai.svg"  alt="">
                 <span>
                     .AI
                 </span>
             </a>
             <a download="iconsax-jar.zip" href="/Iconsax/Jar.zip" class="card">
+                <img src="/logos_herramientas/iconsax-jar.svg"  alt="">
                 <span>
                     .Jar
                 </span>
             </a>
             <div class="card">
+                <img src="/logos_herramientas/iconsax-css.svg" width="85px" alt="">
                 <span>
                     .CSS
+                </span>
+            </div>
+            <div class="card">
+                <img src="/logos_herramientas/iconsax-flutter.svg" width="85px" alt="">
+                <span>
+                    .dart
                 </span>
             </div>
             <div class="space"></div>

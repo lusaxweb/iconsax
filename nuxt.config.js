@@ -5,7 +5,7 @@ export default {
     dir: 'docs',
   },
   head: {
-    title: 'iconsax',
+    title: 'Iconsax',
     htmlAttrs: {
       lang: 'en'
     },
@@ -16,7 +16,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/svg+xml', href: '/logo-vuesax.svg' }
     ]
   },
 

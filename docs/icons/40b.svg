@@ -1,0 +1,9 @@
+<svg id="Vuesax_Bold_Scan" data-name="Vuesax/Bold/Scan" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Vector" d="M.77,8A.764.764,0,0,1,0,7.23V4.92A4.929,4.929,0,0,1,4.92,0H7.23A.764.764,0,0,1,8,.77a.764.764,0,0,1-.77.77H4.92A3.382,3.382,0,0,0,1.54,4.92V7.23A.77.77,0,0,1,.77,8Z" transform="translate(2 2)" fill="#fff"/>
+  <path id="Vector-2" data-name="Vector" d="M7.23,8a.77.77,0,0,1-.77-.77V4.92A3.382,3.382,0,0,0,3.08,1.54H.77A.77.77,0,1,1,.77,0H3.08A4.929,4.929,0,0,1,8,4.92V7.23A.764.764,0,0,1,7.23,8Z" transform="translate(14 2)" fill="#fff"/>
+  <path id="Vector-3" data-name="Vector" d="M2.16,7.07H.77a.77.77,0,0,1,0-1.54H2.16A3.382,3.382,0,0,0,5.54,2.15V.77a.77.77,0,0,1,1.54,0V2.15A4.929,4.929,0,0,1,2.16,7.07Z" transform="translate(14.92 14.93)" fill="#fff"/>
+  <path id="Vector-4" data-name="Vector" d="M7.23,8H4.92A4.929,4.929,0,0,1,0,3.08V.77A.764.764,0,0,1,.77,0a.764.764,0,0,1,.77.77V3.08A3.382,3.382,0,0,0,4.92,6.46H7.23A.77.77,0,0,1,7.23,8Z" transform="translate(2 14)" fill="#fff"/>
+  <path id="Vector-5" data-name="Vector" d="M13.69,0H.77a.77.77,0,0,0,0,1.54H13.69a.77.77,0,1,0,0-1.54Z" transform="translate(4.77 11.23)" fill="#fff"/>
+  <path id="Vector-6" data-name="Vector" d="M0,.21V.54a3,3,0,0,0,3,3H7.2a3,3,0,0,0,3-3V.21A.205.205,0,0,0,9.99,0H.21A.205.205,0,0,0,0,.21Z" transform="translate(6.9 13.73)" fill="#fff"/>
+  <path id="Vector-7" data-name="Vector" d="M0,3.33V3A3,3,0,0,1,3,0H7.2a3,3,0,0,1,3,3v.33a.205.205,0,0,1-.21.21H.21A.205.205,0,0,1,0,3.33Z" transform="translate(6.9 6.73)" fill="#fff"/>
+</svg>

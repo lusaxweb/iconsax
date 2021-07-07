@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_linear_security-safe" data-name="vuesax/linear/security-safe" transform="translate(-364 -316)">
+    <g id="security-safe">
+      <path id="Vector" d="M17.82,9.112a11.524,11.524,0,0,1-8.4,10.81,1.96,1.96,0,0,1-1.02,0A11.524,11.524,0,0,1,0,9.112V4.722a2.4,2.4,0,0,1,1.39-2.06L6.96.382a5.187,5.187,0,0,1,3.91,0l5.57,2.28a2.421,2.421,0,0,1,1.39,2.06Z" transform="translate(367.09 318.008)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <g id="Group">
+        <path id="Vector-2" data-name="Vector" d="M4,2A2,2,0,1,1,2,0,2,2,0,0,1,4,2Z" transform="translate(374 324.5)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0V3" transform="translate(376 328.5)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(388 340) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
