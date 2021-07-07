@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.481" height="24.481" viewBox="0 0 24.481 24.481">
+  <g id="vuesax_broken_receive-square" data-name="vuesax/broken/receive-square" transform="translate(-1.368 -1.368)">
+    <g id="receive-square">
+      <path id="Vector" d="M0,12.531v2.211c0,5.67,2.268,7.938,7.938,7.938h6.8c5.67,0,7.938-2.268,7.938-7.938v-6.8C22.681,2.268,20.413,0,14.742,0h-6.8C2.268,0,0,2.268,0,7.938" transform="translate(2.268 2.268)" fill="none" stroke="#131315" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" stroke-dasharray="0 0"/>
+      <g id="Group" transform="translate(6.804 7.382)">
+        <g id="Group-2" data-name="Group" transform="translate(3.402)">
+          <path id="Vector-2" data-name="Vector" d="M0,0,3.4,3.4,6.8,0" transform="translate(0 5.67)" fill="none" stroke="#131315" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" stroke-dasharray="0 0"/>
+          <path id="Vector-3" data-name="Vector" d="M0,9.072V0" transform="translate(3.402)" fill="none" stroke="#131315" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" stroke-dasharray="0 0"/>
+        </g>
+        <path id="Vector-4" data-name="Vector" d="M0,0A21.489,21.489,0,0,0,13.608,0" transform="translate(0 11.34)" fill="none" stroke="#131315" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" stroke-dasharray="0 0"/>
+      </g>
+    </g>
+  </g>
+</svg>
