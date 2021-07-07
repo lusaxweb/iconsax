@@ -1,6 +1,8 @@
-<svg id="Vuesax_Linear_Bag_-_2" data-name="Vuesax/Linear/Bag - 2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path id="Vector" d="M0,5.662v-.97A4.773,4.773,0,0,1,4.06.022,4.5,4.5,0,0,1,9,4.5v1.38" transform="translate(7.5 2.008)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  <path id="Vector-2" data-name="Vector" d="M5.751,14h6c4.02,0,4.74-1.61,4.95-3.57l.75-6c.27-2.44-.43-4.43-4.7-4.43h-8C.481,0-.219,1.99.051,4.43l.75,6C1.011,12.39,1.731,14,5.751,14Z" transform="translate(3.249 8)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  <path id="Vector-3" data-name="Vector" d="M.495.5H.5" transform="translate(15.001 11.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-  <path id="Vector-4" data-name="Vector" d="M.495.5H.5" transform="translate(8 11.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="18.995" height="21.496" viewBox="0 0 18.995 21.496">
+  <g id="_3a" data-name="3a" transform="translate(-2.502 -1.254)">
+    <path id="Vector" d="M0,5.662v-.97A4.773,4.773,0,0,1,4.06.022,4.5,4.5,0,0,1,9,4.5V5.88" transform="translate(7.5 2.008)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M5.751,14h6c4.02,0,4.74-1.61,4.95-3.57l.75-6c.27-2.44-.43-4.43-4.7-4.43h-8C.481,0-.219,1.99.051,4.43l.75,6C1.011,12.39,1.731,14,5.751,14Z" transform="translate(3.249 8)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M.5.5h0" transform="translate(15.001 11.5)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Vector-4" data-name="Vector" d="M.5.5h0" transform="translate(8 11.5)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
 </svg>

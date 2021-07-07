@@ -1,5 +1,7 @@
-<svg id="Vuesax_Linear_Folder_-_Open" data-name="Vuesax/Linear/Folder - Open" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path id="Vector" d="M19.354,3.3l-.4,5c-.15,1.53-.27,2.7-2.98,2.7H3.394C.684,11,.564,9.83.414,8.3l-.4-5a3.031,3.031,0,0,1,.65-2.19l.02-.02A2.975,2.975,0,0,1,2.994,0h13.38a2.965,2.965,0,0,1,2.29,1.07c.01.01.02.02.02.03A2.925,2.925,0,0,1,19.354,3.3Z" transform="translate(2.316 11)" fill="none" stroke="#fff" stroke-width="1.5"/>
-  <path id="Vector-2" data-name="Vector" d="M0,9.4V4.25C0,.85.85,0,4.25,0H5.52A2.017,2.017,0,0,1,7.56,1.02l1.27,1.7a1.352,1.352,0,0,0,1.36.68h2.55c3.4,0,4.25.85,4.25,4.25V9.44" transform="translate(3.5 2.03)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  <path id="Vector-3" data-name="Vector" d="M0,0H5.14" transform="translate(9.43 17)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="20.878" height="21.498" viewBox="0 0 20.878 21.498">
+  <g id="_21a" data-name="21a" transform="translate(-1.562 -1.252)">
+    <path id="Vector" d="M19.354,3.3l-.4,5c-.15,1.53-.27,2.7-2.98,2.7H3.394C.684,11,.564,9.83.414,8.3l-.4-5a3.031,3.031,0,0,1,.65-2.19l.02-.02A2.975,2.975,0,0,1,2.994,0h13.38a2.965,2.965,0,0,1,2.29,1.07c.01.01.02.02.02.03a2.925,2.925,0,0,1,.67,2.2Z" transform="translate(2.316 11)" fill="none" stroke="#292d32" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M0,9.4V4.25C0,.85.85,0,4.25,0H5.52A2.017,2.017,0,0,1,7.56,1.02l1.27,1.7a1.352,1.352,0,0,0,1.36.68h2.55c3.4,0,4.25.85,4.25,4.25V9.44" transform="translate(3.5 2.03)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H5.14" transform="translate(9.43 17)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
 </svg>

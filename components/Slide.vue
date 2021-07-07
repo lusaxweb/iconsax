@@ -19,7 +19,7 @@
             </div>
             <div class="con-icons2">
                 <div class="icon" v-for="i in 24" :key="i">
-                    <img :src="`/icons/${i}b.svg`" alt="">
+                    <img :src="`/icons/${i}a.svg`" alt="">
                 </div>
             </div>
         </div>

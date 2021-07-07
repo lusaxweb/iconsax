@@ -1,4 +1,6 @@
-<svg id="Vuesax_Bold_Card" data-name="Vuesax/Bold/Card" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path id="Vector" d="M20,4.15a1.2,1.2,0,0,1-1.2,1.2H1.2A1.2,1.2,0,0,1,0,4.15V4.14A4.135,4.135,0,0,1,4.14,0H15.85A4.153,4.153,0,0,1,20,4.15Z" transform="translate(2 3.4)" fill="#fff"/>
-  <path id="Vector-2" data-name="Vector" d="M0,1.2V6.21a4.135,4.135,0,0,0,4.14,4.14H15.85A4.153,4.153,0,0,0,20,6.2v-5A1.2,1.2,0,0,0,18.8,0H1.2A1.2,1.2,0,0,0,0,1.2ZM6,7H4A.75.75,0,0,1,4,5.5H6A.75.75,0,0,1,6,7Zm6.5,0h-4a.75.75,0,0,1,0-1.5h4a.75.75,0,0,1,0,1.5Z" transform="translate(2 10.25)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="17.2" viewBox="0 0 20 17.2">
+  <g id="_9b" data-name="9b" transform="translate(-2 -3.4)">
+    <path id="Vector" d="M20,4.15a1.2,1.2,0,0,1-1.2,1.2H1.2A1.2,1.2,0,0,1,0,4.15V4.14A4.135,4.135,0,0,1,4.14,0H15.85A4.153,4.153,0,0,1,20,4.15Z" transform="translate(2 3.4)" fill="#292d32"/>
+    <path id="Vector-2" data-name="Vector" d="M0,1.2V6.21a4.135,4.135,0,0,0,4.14,4.14H15.85A4.153,4.153,0,0,0,20,6.2v-5A1.2,1.2,0,0,0,18.8,0H1.2A1.2,1.2,0,0,0,0,1.2ZM6,7H4A.75.75,0,1,1,4,5.5H6A.75.75,0,0,1,6,7Zm6.5,0h-4a.75.75,0,1,1,0-1.5h4a.75.75,0,1,1,0,1.5Z" transform="translate(2 10.25)" fill="#292d32"/>
+  </g>
 </svg>

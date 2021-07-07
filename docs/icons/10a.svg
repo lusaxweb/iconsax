@@ -1,9 +1,11 @@
-<svg id="Vuesax_Linear_Clipboard_-_Import" data-name="Vuesax/Linear/Clipboard - Import" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <path id="Vector" d="M2,4H6C8,4,8,3,8,2,8,0,7,0,6,0H2C1,0,0,0,0,2S1,4,2,4Z" transform="translate(8 2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  <path id="Vector-2" data-name="Vector" d="M11,17.98H6c-5,0-6-2-6-6v-6C0,1.42,1.67.18,5,0" transform="translate(3 4.02)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  <path id="Vector-3" data-name="Vector" d="M0,0C3.33.18,5,1.41,5,5.98v5" transform="translate(16 4.02)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-  <g id="Group">
-    <path id="Vector-4" data-name="Vector" d="M3,0V3H0" transform="translate(18 19)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
-    <path id="Vector-5" data-name="Vector" d="M0,0,5.96,5.96" transform="translate(15 16)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="19.771" height="21.771" viewBox="0 0 19.771 21.771">
+  <g id="_10a" data-name="10a" transform="translate(-2.25 -1.25)">
+    <path id="Vector" d="M2,4H6C8,4,8,3,8,2,8,0,7,0,6,0H2C1,0,0,0,0,2S1,4,2,4Z" transform="translate(8 2)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M11,17.98H6c-5,0-6-2-6-6v-6C0,1.42,1.67.18,5,0" transform="translate(3 4.02)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0C3.33.18,5,1.41,5,5.98v5" transform="translate(16 4.02)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <g id="Group">
+      <path id="Vector-4" data-name="Vector" d="M3,0V3H0" transform="translate(18 19)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0,5.96,5.96" transform="translate(15 16)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
   </g>
 </svg>
