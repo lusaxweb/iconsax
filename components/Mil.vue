@@ -24,8 +24,7 @@ export default Vue.extend({
     display: flex
     align-items: center
     justify-content: center
-    margin-top: 100px
-    margin-bottom: 100px
+    padding: 100px 50px
     .title
         position: absolute
         right: 0px
@@ -42,5 +41,14 @@ export default Vue.extend({
         width: 100%
         max-width: 900px
         position: relative
+        
+@media (max-width: 700px)
+    .mil
+        padding: 50px 50px
+    .con-mil
+        .title
+            font-size: 60px
+        p
+            font-size: 20px
 
 </style>

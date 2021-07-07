@@ -71,4 +71,8 @@ export default Vue.extend({
                 display: block
                 opacity: .5
                 color: -color('text')
+@media (max-width: 540px)
+    .navbar .actions .links
+        display: none
+
 </style>

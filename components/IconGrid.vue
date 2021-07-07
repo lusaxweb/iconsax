@@ -70,6 +70,8 @@ export default Vue.extend({
         .con-image
             margin-right: 0px
             margin-bottom: 30px
+            img
+                max-width: 250px
         br
             display: none
         .con-text
@@ -79,4 +81,9 @@ export default Vue.extend({
             padding: 15px
             p
                 text-align: center
+@media (max-width: 600px)
+    .icon-grid
+        margin-bottom: 0px
+    .icon-grid .con-text p
+        font-size: 30px
 </style>

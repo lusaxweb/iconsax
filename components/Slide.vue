@@ -139,6 +139,7 @@ export default Vue.extend({
                 flex: 1
                 font-size: 35px
                 text-align: center
+                padding-left: 0px
                 br
                     display: none
         .icons
@@ -150,6 +151,18 @@ export default Vue.extend({
                 transform: translate(0,0)
 @media (max-width: 570px)
     .slide
+        .text
+            .title
+                padding: 20px
+                font-size: 28px
+        .icons
+            flex-direction: column
+            .con-icons1
+                align-items: center
+                justify-content: center
+                width: 100%
+            .con-icons2
+                display: none
         .btns
             display: flex
             flex-direction: column

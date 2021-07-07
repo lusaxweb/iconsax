@@ -7,6 +7,8 @@
     </div>
     <Mil />
     <Icon-grid/>
+    <License/>
+    <Favorite/>
     <Footer />
   </div>
 </template>
