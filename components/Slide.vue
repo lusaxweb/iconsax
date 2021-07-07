@@ -5,6 +5,7 @@
                 Hello welcome to icon<b>sax</b>  <br> the oficial icons if the <br> <b>Vuesax</b>  framework
             </div>
             <div class="btns">
+                <a download href="/Iconsax.zip">Download</a>
                 <button>
                     Download all v1.0
                 </button>
