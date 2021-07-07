@@ -80,13 +80,20 @@ export default Vue.extend({
         display: flex
         align-items: center
         justify-content: center
+        transition: all .25s ease
+        
         img
             margin-right: 10px
         &:not(.gray)
             box-shadow: 0px 10px 25px 0px rgba(23, 82, 254, .2)
+            &:hover
+                transform: translate(0, 3px)
+                box-shadow: 0px 0px 0px 0px rgba(23, 82, 254, 0.2)
         &.gray
             background: rgba(244, 247, 250, 1)
             color: rgba(0,0,0,1)
+            &:hover
+                background: rgba(239, 242, 245, 1)
 
 @media (max-width: 1300px)
     .slide

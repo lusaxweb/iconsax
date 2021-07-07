@@ -95,6 +95,15 @@ export default Vue.extend({
     margin: 10px
     padding: 25px
     position: relative
+    transition: all .25s ease
+    &:hover
+        background: rgba(255,255,255,0)
+        box-shadow: 0px 20px 100px 0px rgba(0,0,0,.0)
+        transform: scale(0.95)
+        img
+            transform: scale(1.2)
+    img
+        transition: all .25s ease 
     >span
         position: absolute
         bottom: 25px

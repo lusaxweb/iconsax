@@ -5,6 +5,7 @@
       <Slide />
       <Download />
     </div>
+    <Mil />
     <Footer />
   </div>
 </template>

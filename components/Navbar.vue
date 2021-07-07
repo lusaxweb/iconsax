@@ -41,10 +41,11 @@ export default Vue.extend({
 <style lang="sass">
 .navbar
     background: -color('color')
-    padding: 20px
+    padding: 10px 20px
     display: flex
     justify-content: space-between
     width: 100vw
+    align-items: center
     .actions
         display: flex
         justify-content: flex-end
@@ -57,6 +58,9 @@ export default Vue.extend({
                 display: flex
                 align-items: center
                 justify-content: center
+                transition: all .25s ease
+                &:hover
+                    opacity: .4
         .links
             display: flex
             padding-right: 10px
