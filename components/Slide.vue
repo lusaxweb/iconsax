@@ -31,7 +31,6 @@ export default Vue.extend({
 
 <style lang="sass">
 .slide
-    background: -color('color')
     display: flex
     padding-bottom: 100px
     align-items: center
@@ -62,7 +61,6 @@ export default Vue.extend({
         max-width: 650px
         .title
             font-size: 50px
-            
             font-weight: 100
             padding-left: 35px
             padding-bottom: 10px
@@ -89,4 +87,49 @@ export default Vue.extend({
         &.gray
             background: rgba(244, 247, 250, 1)
             color: rgba(0,0,0,1)
+
+@media (max-width: 1300px)
+    .slide
+        .text
+            .title
+                font-size: 40px
+@media (max-width: 1200px)
+    .slide
+        .icons
+            .con-icons2
+                transform: translate(0,120px)
+@media (max-width: 1050px)
+    .slide
+        flex-direction: column
+        .text
+            width: 100vw
+            max-width: 100vw
+            display: flex
+            align-items: center
+            justify-content: center
+            flex-direction: column
+            .btns
+                flex: 1
+            .title
+                flex: 1
+                font-size: 35px
+                text-align: center
+                br
+                    display: none
+        .icons
+            width: 100vw
+            padding-top: 30px
+            .con-icons2
+                position: relative
+                margin-left: 20px
+                transform: translate(0,0)
+@media (max-width: 570px)
+    .slide
+        .btns
+            display: flex
+            flex-direction: column
+            width: 100%
+            padding: 0px 30px
+            a
+                width: 100%
 </style>
