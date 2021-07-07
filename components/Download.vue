@@ -1,7 +1,7 @@
 <template>
     <div  class="download">
         <div class="title">
-            Download
+            <img src="/down1.svg" alt=""> Download
         </div>
         <div v-dragscroll class="con-cards">
             <div class="card">
@@ -58,6 +58,11 @@ export default Vue.extend({
         padding: 0px 40px
         transform: translate(0, 25px)
         font-size: 20px
+        display: flex
+        align-items: center
+        justify-content: flex-start
+        img
+            margin-right: 10px
 
 
 .con-cards

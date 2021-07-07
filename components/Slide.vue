@@ -5,13 +5,10 @@
                 Hello welcome to icon<b>sax</b>  <br> the oficial icons if the <br> <b>Vuesax</b>  framework
             </div>
             <div class="btns">
-                <a download href="/Iconsax.zip">Download</a>
-                <button>
-                    Download all v1.0
-                </button>
-                <button class="gray">
+                <a class="download" download href="/Iconsax.zip"><img src="/down2.svg" alt=""> Download all v1.0</a>
+                <a href="https://vuesax.com/" target="_blank" class="gray">
                     See vuesax framework
-                </button>
+                </a>
             </div>
         </div>
         <div class="icons">
@@ -71,13 +68,22 @@ export default Vue.extend({
             padding-bottom: 10px
 .btns
     margin: 0px 30px
-    button
+    display: block
+    position: relative
+    display: flex
+    a
         padding: 14px 24px
         background: rgba(23, 82, 254, 1)
         border: 0px
         border-radius: 16px
         color: rgba(255, 255, 255, 1)
         margin: 10px 5px
+        position: relative
+        display: flex
+        align-items: center
+        justify-content: center
+        img
+            margin-right: 10px
         &:not(.gray)
             box-shadow: 0px 10px 25px 0px rgba(23, 82, 254, .2)
         &.gray
