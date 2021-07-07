@@ -1,6 +1,6 @@
 <template>
   <div class="landing">
-    <Navbar />
+    <Navbar  />
     <div class="center">
       <Slide />
       <Download />
@@ -10,13 +10,13 @@
     <Icons />
     <License/>
     <Favorite/>
+    <FooterIcons/>
     <Footer />
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
-
 export default Vue.extend({
 
 })
@@ -27,7 +27,7 @@ export default Vue.extend({
     display: flex
     flex-direction: column
     justify-content: space-between
-    height: 100vh
     width: 100%
-    overflow-x: hidden
+    overflow: hidden
+    
 </style>

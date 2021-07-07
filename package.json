@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/style-resources": "^1.2.0",
+    "aos": "^2.3.4",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7",
     "vue-dragscroll": "^3.0.0"
@@ -22,6 +23,7 @@
     "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/eslint-config-typescript": "^6.0.1",
     "@nuxtjs/eslint-module": "^3.0.2",
+    "@types/node": "^16.0.1",
     "eslint": "^7.29.0",
     "eslint-plugin-nuxt": "^2.0.0",
     "eslint-plugin-vue": "^7.12.1",

@@ -1,5 +1,5 @@
 <template>
-    <div class="Favorite">
+    <div data-aos="fade-up"  data-aos-offset="500" class="Favorite">
         <div class="con-Favorite">
             <h2>
                 In your favorite formats
@@ -47,7 +47,7 @@ export default Vue.extend({
     display: flex
     align-items: center
     justify-content: center
-    padding: 100px 50px
+    padding: 100px 0px
     h1
         font-size: 38px
         z-index: 100
@@ -81,7 +81,11 @@ export default Vue.extend({
     100%
         transform: scale(1)
         box-shadow: 0px 0px 100px 0px rgba(0,0,0,.0)
-
+.con-Favorite
+    display: flex
+    align-items: center
+    justify-content: center
+    flex-direction: column
 .con-animate
     width: 500px
     height: 500px
@@ -134,7 +138,50 @@ export default Vue.extend({
             bottom: 100px
             left: 0px
             animation: scale 15s ease infinite 12.5s
-// @media (max-width: 700px)
-
+@media (max-width: 640px)
+    .con-animate
+        width: 400px
+        height: 400px
+        .image
+            &.image1
+                left: 0px
+                top: 80px
+            &.image2
+                top: -40px
+            &.image3
+                right: 0px
+                top: 80px
+            &.image4
+                bottom: 80px
+                right: 0px
+            &.image5
+                bottom: -40px
+            &.image6
+                bottom: 80px
+                left: 0px
+@media (max-width: 460px)
+    .con-animate
+        width: 300px
+        height: 300px
+        margin-top: 30px
+        .image
+            img
+                width: 50px
+            &.image1
+                left: 0px
+                top: 50px
+            &.image2
+                top: -20px
+            &.image3
+                right: 0px
+                top: 50px
+            &.image4
+                bottom: 50px
+                right: 0px
+            &.image5
+                bottom: -30px
+            &.image6
+                bottom: 35px
+                left: 0px
 
 </style>

@@ -1,5 +1,5 @@
 <template>
-    <div class="mil">
+    <div data-aos="fade-up" data-aos-offset="500" data-aos-easing="ease-out-cubic" class="mil">
         <div class="con-mil">
             <img src="/1000.svg" alt="">
             <span class="title">
@@ -15,7 +15,7 @@
 <script lang="ts">
 import Vue from 'vue'
 export default Vue.extend({
-    
+  
 })
 </script>
 

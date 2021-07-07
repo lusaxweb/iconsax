@@ -1,5 +1,5 @@
 <template>
-    <div class="license">
+    <div data-aos="fade-up" data-aos-offset="500" id="license" class="license">
         <div class="con-license">
             <h2>
                 License
@@ -34,7 +34,7 @@ export default Vue.extend({
         width: 100%
         max-width: 700px
         color: rgba(0,0,0,.5)
-        font-size: 1.1rem
+        font-size: 1.2rem
         b,a
             color: rgba(0,0,0,1)
         

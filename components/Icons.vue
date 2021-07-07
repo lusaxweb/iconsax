@@ -1,5 +1,5 @@
 <template>
-    <div class="icons">
+    <div data-aos="fade-up"  data-aos-offset="500" class="icons">
         <div class="con-icons">
             <h2>
                 <b>6</b> styles diferents

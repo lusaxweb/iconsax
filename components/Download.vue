@@ -66,7 +66,7 @@ export default Vue.extend({
 })
 </script>
 
-<style lang="sass">
+<style lang="sass" scoped>
 .download
     .title
         padding: 0px 40px

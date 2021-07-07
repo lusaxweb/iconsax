@@ -1,5 +1,5 @@
 <template>
-    <div class="icon-grid">
+    <div data-aos="fade-up"  data-aos-offset="500" class="icon-grid">
         <div class="con-image">
             <img src="/house-grid.png" alt="">
         </div>

@@ -5,10 +5,7 @@
         </span>
         <div class="actions">
             <div class="links">
-                <a href="">
-                    About
-                </a>
-                <a href="">
+                <a href="#license">
                     License 
                 </a>
             </div>
@@ -55,8 +52,8 @@ export default Vue.extend({
         .icons
             display: flex
             a
-                width: 50px
-                height: 50px
+                width: 40px
+                height: 40px
                 display: flex
                 align-items: center
                 justify-content: center
