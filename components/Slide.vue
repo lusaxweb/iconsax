@@ -13,10 +13,14 @@
         </div>
         <div class="icons">
             <div class="con-icons1">
-                
+                <div class="icon" v-for="i in 40" :key="i">
+                    <img :src="`/icons/${i}.svg`" alt="">
+                </div>
             </div>
             <div class="con-icons2">
-
+                <div class="icon" v-for="i in 24" :key="i">
+                    <img :src="`/icons/${i}.svg`" alt="">
+                </div>
             </div>
         </div>
     </div>
@@ -48,6 +52,13 @@ export default Vue.extend({
             background: rgba(255,255,255,1)
             border-radius: 40px 40px 0px 0px
             box-shadow: 0px -20px 60px -15px rgba(0,0,0,.04)
+            display: flex
+            align-items: flex-start
+            justify-content: flex-start
+            flex-wrap: wrap
+            padding: 16px
+            .icon
+                padding: 14px
         .con-icons2
             width: 350px
             height: 200px
@@ -56,6 +67,13 @@ export default Vue.extend({
             border-radius: 40px 40px 0px 0px
             transform: translate(-200px, 120px)
             box-shadow: 0px -20px 60px -15px rgba(0,0,0,.04)
+            display: flex
+            align-items: flex-start
+            justify-content: flex-start
+            flex-wrap: wrap
+            padding: 16px
+            .icon
+                padding: 14px
     .text
         width: 50vw
         max-width: 650px

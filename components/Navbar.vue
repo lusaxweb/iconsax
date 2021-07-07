@@ -1,7 +1,7 @@
 <template>
     <div class="navbar">
-        <span>
-            iconsax
+        <span class="logo">
+            icon<b>sax</b> 
         </span>
         <div class="actions">
             <div class="links">
@@ -9,7 +9,7 @@
                     About
                 </a>
                 <a href="">
-                    License
+                    License 
                 </a>
             </div>
 
@@ -20,7 +20,7 @@
                 <a href="">
                     <img src="/dribbble.svg" alt="">
                 </a>
-                <a href="">
+                <a href="https://github.com/lusaxweb/iconsax" target="_blank">
                     <img src="/github.svg" alt="">
                 </a>
                 <a href="">
@@ -46,6 +46,8 @@ export default Vue.extend({
     justify-content: space-between
     width: 100vw
     align-items: center
+    .logo
+        font-size: 20px
     .actions
         display: flex
         justify-content: flex-end

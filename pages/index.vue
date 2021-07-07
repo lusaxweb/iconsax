@@ -6,6 +6,7 @@
       <Download />
     </div>
     <Mil />
+    <Icon-grid/>
     <Footer />
   </div>
 </template>

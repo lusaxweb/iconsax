@@ -4,45 +4,45 @@
             <img src="/down1.svg" alt=""> Download
         </div>
         <div v-dragscroll class="con-cards">
-            <div class="card">
+            <a download="iconsax-figma.zip" href="/Iconsax/Figma.zip" class="card">
                 <img src="/logos_herramientas/iconsax-figma.svg" alt="">
                 <span>
                     .Figma
                 </span>
-            </div>
-            <div class="card">
+            </a>
+            <a download="iconsax-xd.zip" href="/Iconsax/Xd.zip" class="card">
                 <img src="/logos_herramientas/iconsax-adobexd.svg" alt="">
                 <span>
                     .Xd
                 </span>
-            </div>
-            <div class="card">
+            </a>
+            <a download="iconsax-sketch.zip" href="/Iconsax/Sketch.zip" class="card">
                 <img src="/logos_herramientas/iconsax-sketch.svg" alt="">
                 <span>
                     .Sketch
                 </span>
-            </div>
-            <div class="card">
+            </a>
+            <a download="iconsax-svg.zip" href="/Iconsax/Svg.zip" class="card">
                 <img src="/logos_herramientas/iconsax-svg.svg" width="90px" alt="">
                 <span>
                     .SVG
                 </span>
-            </div>
+            </a>
             
-            <div class="card">
+            <a download="iconsax-ai.zip" href="/Iconsax/AI.zip" class="card">
                 <img src="/logos_herramientas/iconsax-ai.svg" width="90px" alt="">
                 <span>
                     .AI
                 </span>
-            </div>
+            </a>
+            <a download="iconsax-jar.zip" href="/Iconsax/Jar.zip" class="card">
+                <span>
+                    .Jar
+                </span>
+            </a>
             <div class="card">
                 <span>
                     .CSS
-                </span>
-            </div>
-            <div class="card">
-                <span>
-                    .ttf
                 </span>
             </div>
             <div class="space"></div>
@@ -96,6 +96,8 @@ export default Vue.extend({
     padding: 25px
     position: relative
     transition: all .25s ease
+    color: rgba(0,0,0,1)
+    cursor: pointer
     &:hover
         background: rgba(255,255,255,0)
         box-shadow: 0px 20px 100px 0px rgba(0,0,0,.0)
