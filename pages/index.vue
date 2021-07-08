@@ -29,28 +29,22 @@ export default Vue.extend({
     justify-content: space-between
     width: 100%
     overflow: hidden
-    &:after
-      content: ''
-      position: fixed
-      width: 100%
-      height: 100px
-      left: 0px
-      top: 0px
-      background-image: linear-gradient(0deg, rgba(0,0,0,0.0) 0%,rgba(255,255,255,1) 100%)
-    &:before
-      content: ''
-      position: fixed
-      width: 100%
-      height: 100px
-      left: 0px
-      bottom: 0px
-      z-index: 100
-      background-image: linear-gradient(180deg, rgba(0,0,0,0.0) 0%,rgba(255,255,255,1) 100%)
+//     &:after
+//       content: ''
+//       position: fixed
+//       width: 100%
+//       height: 100px
+//       left: 0px
+//       top: 0px
+//       background-image: linear-gradient(0deg, rgba(0,0,0,0.0) 0%,rgba(255,255,255,1) 100%)
+//     &:before
+//       content: ''
+//       position: fixed
+//       width: 100%
+//       height: 100px
+//       left: 0px
+//       bottom: 0px
+//       z-index: 100
+//       background-image: linear-gradient(180deg, rgba(0,0,0,0.0) 0%,rgba(255,255,255,1) 100%)
 
-@supports (-webkit-touch-callout: none) 
-  /* CSS specific to iOS devices */ 
-  .landing
-    &:after, &:before
-      display: none
-    
 </style>
