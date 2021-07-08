@@ -7,7 +7,7 @@
             <a download="iconsax-figma.zip" href="/Iconsax/Figma.zip" class="card">
                 <img src="/logos_herramientas/iconsax-figma.svg" alt="">
                 <span>
-                    .Figma
+                    .Fig
                 </span>
             </a>
             <a download="iconsax-xd.zip" href="/Iconsax/Xd.zip" class="card">
