@@ -47,21 +47,24 @@ export default Vue.extend({
         justify-content: center
         position: relative
         .con-icons1
-            width: 450px
-            height: 300px
+            width: 420px
+            height: auto
             background: rgba(255,255,255,1)
             border-radius: 40px 40px 0px 0px
             box-shadow: 0px -20px 60px -15px rgba(0,0,0,.04)
             display: flex
-            align-items: flex-start
-            justify-content: flex-start
+            // align-items: flex-start
+            justify-content: center
             flex-wrap: wrap
-            padding: 16px
+            padding: 10px
             .icon
-                width: 12.5%
-                padding: 14px
+                width: 50px
+                height: 50px
+                display: flex
+                align-items: center
+                justify-content: center
         .con-icons2
-            width: 350px
+            width: 370px
             height: auto
             background: rgba(255,255,255,1)
             position: absolute
@@ -70,12 +73,15 @@ export default Vue.extend({
             box-shadow: 0px -20px 60px -15px rgba(0,0,0,.04)
             display: flex
             align-items: flex-start
-            justify-content: flex-start
+            justify-content: center
             flex-wrap: wrap
-            padding: 16px
+            padding: 10px
             .icon
-                width: 14%
-                padding: 14px
+                width: 50px
+                height: 50px
+                display: flex
+                align-items: center
+                justify-content: center
     .text
         width: 50vw
         max-width: 650px

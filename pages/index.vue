@@ -36,7 +36,7 @@ export default Vue.extend({
       height: 100px
       left: 0px
       top: 0px
-      background-image: linear-gradient(0deg, rgba(0,0,0,0) 0%,rgba(255,255,255,1) 100%)
+      background-image: linear-gradient(0deg, rgba(0,0,0,0.01) 0%,rgba(255,255,255,1) 100%)
     &:before
       content: ''
       position: fixed
@@ -45,7 +45,7 @@ export default Vue.extend({
       left: 0px
       bottom: 0px
       z-index: 100
-      background-image: linear-gradient(180deg, rgba(0,0,0,0) 0%,rgba(255,255,255,1) 100%)
+      background-image: linear-gradient(180deg, rgba(0,0,0,0.01) 0%,rgba(255,255,255,1) 100%)
 
     
 </style>

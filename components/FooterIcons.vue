@@ -65,7 +65,7 @@ export default Vue.extend({
     box-shadow: 0px -20px 60px -15px rgba(0,0,0,.04)
     display: flex
     align-items: flex-start
-    justify-content: flex-start
+    justify-content: center
     flex-wrap: wrap
     padding: 16px
     &.cardx
@@ -83,7 +83,11 @@ export default Vue.extend({
         left: 5%
         z-index: -1
     .icon
-        padding: 14px
+        width: 50px
+        height: 50px
+        display: flex
+        align-items: center
+        justify-content: center
 
 @media (max-width: 950px)
     .card
