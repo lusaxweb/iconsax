@@ -3,7 +3,7 @@
         <div class="title">
             <img src="/down1.svg" alt=""> Download in your favorite format
         </div>
-        <div v-dragscroll class="con-cards">
+        <div v-dragscroll.x="!touchDevice" class="con-cards">
             <a download="iconsax-figma.zip" href="/Iconsax/Figma.zip" class="card">
                 <img src="/logos_herramientas/iconsax-figma.svg" alt="">
                 <span>
@@ -63,7 +63,16 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-
+    data () {
+        return {
+            touchDevice: false
+        }
+    },
+    
+    mounted() {
+        this.touchDevice = ('ontouchstart' in window || navigator.msMaxTouchPoints) || false as any
+        console.log(('ontouchstart' in window || navigator.msMaxTouchPoints) || false)
+    }
 })
 </script>
 

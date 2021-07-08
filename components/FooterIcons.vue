@@ -96,6 +96,9 @@ export default Vue.extend({
             left: 0px
         &.card3
             display: none
-
+@media (max-width: 600px)
+    .card
+        &.card2
+            display: none
 
 </style>

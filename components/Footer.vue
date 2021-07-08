@@ -59,4 +59,9 @@ export default Vue.extend({
                 opacity: .4
     a
         color: rgba(0, 0, 0, 1)
+@media (max-width: 812px)
+    .footer
+        .icons
+            transform: translate(-50%, -50px)
+
 </style>
