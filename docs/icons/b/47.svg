@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="_47" data-name="47" transform="translate(-364 -188)">
+    <g id="search-status">
+      <path id="Vector" d="M9.01,0a9.01,9.01,0,1,0,9.01,9.01A9.01,9.01,0,0,0,9.01,0Zm0,11.26h-3a.75.75,0,0,1,0-1.5h3a.75.75,0,0,1,0,1.5Zm3-3h-6a.75.75,0,0,1,0-1.5h6a.75.75,0,1,1,0,1.5Z" transform="translate(365.99 189.99)" fill="#292d32"/>
+      <path id="Vector-2" data-name="Vector" d="M3.992.95A2.1,2.1,0,0,0,2.022,0,2.02,2.02,0,0,0,.342.79a2.029,2.029,0,0,0-.22,1.84c.43,1.3,1.18,1.59,1.59,1.64a1.148,1.148,0,0,0,.19.01A2.168,2.168,0,0,0,3.682,3.1,2.06,2.06,0,0,0,3.992.95Z" transform="translate(381.998 206)" fill="#292d32"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(388 212) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -13,13 +13,13 @@
         </div>
         <div class="icons">
             <div class="con-icons1">
-                <div class="icon" v-for="i in 40" :key="i">
-                    <img :src="`/icons/${i}a.svg`" alt="">
+                <div class="icon" v-for="i in 32" :key="i">
+                    <img :src="`/icons/a/${i}.svg`" alt="">
                 </div>
             </div>
             <div class="con-icons2">
-                <div class="icon" v-for="i in 24" :key="i">
-                    <img :src="`/icons/${i}a.svg`" alt="">
+                <div v-show="i > 40" class="icon" v-for="i in 54" :key="i">
+                    <img :src="`/icons/a/${i}.svg`" alt="">
                 </div>
             </div>
         </div>
@@ -58,10 +58,11 @@ export default Vue.extend({
             flex-wrap: wrap
             padding: 16px
             .icon
+                width: 12.5%
                 padding: 14px
         .con-icons2
             width: 350px
-            height: 200px
+            height: auto
             background: rgba(255,255,255,1)
             position: absolute
             border-radius: 40px 40px 0px 0px
@@ -73,6 +74,7 @@ export default Vue.extend({
             flex-wrap: wrap
             padding: 16px
             .icon
+                width: 14%
                 padding: 14px
     .text
         width: 50vw
@@ -82,6 +84,7 @@ export default Vue.extend({
             font-weight: 100
             padding-left: 35px
             padding-bottom: 10px
+            font-family: 'Gilroy'
 .btns
     margin: 0px 30px
     display: block
@@ -98,8 +101,9 @@ export default Vue.extend({
         display: flex
         align-items: center
         justify-content: center
+        white-space: nowrap
         transition: all .25s ease
-        
+        min-width: 220px
         img
             margin-right: 10px
         &:not(.gray)

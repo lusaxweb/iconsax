@@ -43,8 +43,9 @@ export default Vue.extend({
     justify-content: space-between
     width: 100vw
     align-items: center
+    z-index: 1000
     .logo
-        font-size: 20px
+        font-size: 26px
     .actions
         display: flex
         justify-content: flex-end

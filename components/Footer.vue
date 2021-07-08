@@ -39,6 +39,7 @@ export default Vue.extend({
     padding: 0px 25px
     padding-bottom: 20px
     font-size: 13px
+    z-index: 1000
     span
         opacity: .4
     .icons

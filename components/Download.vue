@@ -1,7 +1,7 @@
 <template>
     <div  class="download">
         <div class="title">
-            <img src="/down1.svg" alt=""> Download
+            <img src="/down1.svg" alt=""> Download in your favorite format
         </div>
         <div v-dragscroll class="con-cards">
             <a download="iconsax-figma.zip" href="/Iconsax/Figma.zip" class="card">

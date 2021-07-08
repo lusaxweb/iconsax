@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="_35" data-name="35" transform="translate(-748 -188)">
+    <g id="truck-fast">
+      <path id="Vector" d="M19.5,10.5a.5.5,0,0,1,.5.5v1a3,3,0,0,1-3,3,3,3,0,1,0-6,0H9a3,3,0,0,0-6,0,3,3,0,0,1-3-3V10A1,1,0,0,1,1,9h9.5A2.5,2.5,0,0,0,13,6.5V1a1,1,0,0,1,1-1h.84a2.016,2.016,0,0,1,1.74,1.01l.64,1.12A.252.252,0,0,1,17,2.5,2.5,2.5,0,0,0,14.5,5V8A2.5,2.5,0,0,0,17,10.5Z" transform="translate(750 193)" fill="#292d32"/>
+      <path id="Vector-2" data-name="Vector" d="M4,2A2,2,0,1,1,2,0,2,2,0,0,1,4,2Z" transform="translate(754 206)" fill="#292d32"/>
+      <path id="Vector-3" data-name="Vector" d="M4,2A2,2,0,1,1,2,0,2,2,0,0,1,4,2Z" transform="translate(762 206)" fill="#292d32"/>
+      <path id="Vector-4" data-name="Vector" d="M4,3.53V5H1A1,1,0,0,1,0,4V1A1,1,0,0,1,1,0H2.29L3.74,2.54A2,2,0,0,1,4,3.53Z" transform="translate(766 197)" fill="#292d32"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(748 188)" fill="none" opacity="0"/>
+      <g id="Group">
+        <path id="Vector-6" data-name="Vector" d="M11.08,0H3.69A3.691,3.691,0,0,0,.07,2.98H4.44a.683.683,0,0,1,.68.69.674.674,0,0,1-.68.68H0V5.73H2.6a.691.691,0,0,1,.69.69.683.683,0,0,1-.69.68H0V8.48H.77a.691.691,0,0,1,.69.69.683.683,0,0,1-.69.68H0v.23a1,1,0,0,0,1,1h9.15A1.852,1.852,0,0,0,12,9.23V.92A.918.918,0,0,0,11.08,0Z" transform="translate(750 190)" fill="#292d32"/>
+        <path id="Vector-7" data-name="Vector" d="M1.82,0H.69A.691.691,0,0,0,0,.69a.683.683,0,0,0,.69.68H1.75V.71A4.167,4.167,0,0,1,1.82,0Z" transform="translate(748.25 192.98)" fill="#292d32"/>
+        <path id="Vector-8" data-name="Vector" d="M1.6,0H.69A.691.691,0,0,0,0,.69a.683.683,0,0,0,.69.68H1.75V0Z" transform="translate(748.25 195.73)" fill="#292d32"/>
+        <path id="Vector-9" data-name="Vector" d="M1.6,0H.69A.691.691,0,0,0,0,.69a.683.683,0,0,0,.69.68H1.75V0Z" transform="translate(748.25 198.48)" fill="#292d32"/>
+      </g>
+    </g>
+  </g>
+</svg>

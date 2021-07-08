@@ -6,19 +6,19 @@
             </h2>
 
             <div class="con-cards">
-                <div class="card">
-                    <div class="icon" v-for="i in 40" :key="i">
-                        <img :src="`/icons/${i}a.svg`" alt="">
+                <div class="card cardx">
+                    <div class="icon" v-for="i in 70" :key="i">
+                        <img :src="`/icons/a/${i}.svg`" alt="">
                     </div>
                 </div>
                 <div class="card card2">
-                    <div class="icon" v-for="i in 40" :key="i">
-                        <img :src="`/icons/${i}a.svg`" alt="">
+                    <div class="icon" v-for="i in 70" :key="i">
+                        <img :src="`/icons/a/${i}.svg`" alt="">
                     </div>
                 </div>
                 <div class="card card3">
-                    <div class="icon" v-for="i in 40" :key="i">
-                        <img :src="`/icons/${i}a.svg`" alt="">
+                    <div class="icon" v-for="i in 70" :key="i">
+                        <img :src="`/icons/a/${i}.svg`" alt="">
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@ export default Vue.extend({
     padding-bottom: 100px
 .card
     width: 450px
-    height: 300px
+    height: auto
     background: rgba(255,255,255,1)
     border-radius: 40px 40px 0px 0px
     box-shadow: 0px -20px 60px -15px rgba(0,0,0,.04)
@@ -68,6 +68,8 @@ export default Vue.extend({
     justify-content: flex-start
     flex-wrap: wrap
     padding: 16px
+    &.cardx
+        padding-bottom: 50px
     &.card2
         width: 70%
         position: absolute

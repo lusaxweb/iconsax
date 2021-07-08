@@ -27,11 +27,11 @@ export default Vue.extend({
     margin-top: 150px
     margin-bottom: 150px
     .con-image
-        margin-right: 50px
+        margin-right: 70px
         img
-            max-width: 320px
+            max-width: 280px
     .con-text
-        margin-left: 50px
+        margin-left: 70px
         p
             font-size: 40px
             font-family: 'Gilroy'
