@@ -22,6 +22,18 @@
                     .Sketch
                 </span>
             </a>
+            <a download="iconsax-css.zip" href="/Iconsax/css.zip" class="card">
+                <img src="/logos_herramientas/iconsax-css.svg" width="85px" alt="">
+                <span>
+                    .CSS
+                </span>
+            </a>
+            <a download="iconsax-flutter.zip" href="/Iconsax/flutter.zip" class="card">
+                <img src="/logos_herramientas/iconsax-flutter.svg" width="85px" alt="">
+                <span>
+                    .dart
+                </span>
+            </a>
             <a download="iconsax-svg.zip" href="/Iconsax/Svg.zip" class="card">
                 <img src="/logos_herramientas/iconsax-svg.svg" width="90px" alt="">
                 <span>
@@ -41,18 +53,7 @@
                     .Jar
                 </span>
             </a>
-            <div class="card">
-                <img src="/logos_herramientas/iconsax-css.svg" width="85px" alt="">
-                <span>
-                    .CSS
-                </span>
-            </div>
-            <div class="card">
-                <img src="/logos_herramientas/iconsax-flutter.svg" width="85px" alt="">
-                <span>
-                    .dart
-                </span>
-            </div>
+            
             <div class="space"></div>
         </div>
     </div>
