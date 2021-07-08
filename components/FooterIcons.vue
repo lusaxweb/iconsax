@@ -74,14 +74,14 @@ export default Vue.extend({
         width: 70%
         position: absolute
         top: 90px
-        left: 15%
         z-index: -1
+        max-width: 1400px
     &.card3
         width: 90%
         position: absolute
         top: 220px
-        left: 5%
         z-index: -1
+        max-width: 1600px
     .icon
         width: 50px
         height: 50px

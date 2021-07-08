@@ -23,7 +23,7 @@ export default Vue.extend({
     display: flex
     align-items: center
     justify-content: center
-    padding: 100px 30px
+    padding: 100px 20px
     h2
         text-align: center
         font-size: 35px

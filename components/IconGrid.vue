@@ -40,7 +40,7 @@ export default Vue.extend({
         padding: 14px 24px
         background: rgba(23, 82, 254, 1)
         border: 0px
-        border-radius: 16px
+        border-radius: 18px
         color: rgba(255, 255, 255, 1)
         margin: 10px 5px
         position: relative
@@ -53,12 +53,14 @@ export default Vue.extend({
             margin-right: 10px
         &:not(.gray)
             box-shadow: 0px 10px 25px 0px rgba(23, 82, 254, .2)
+            z-index: 100
             &:hover
                 transform: translate(0, 3px)
                 box-shadow: 0px 0px 0px 0px rgba(23, 82, 254, 0.2)
         &.gray
             background: rgba(244, 247, 250, 1)
             color: rgba(0,0,0,1)
+            z-index: 20
             &:hover
                 background: rgba(239, 242, 245, 1)
 

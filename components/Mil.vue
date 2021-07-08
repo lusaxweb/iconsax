@@ -62,7 +62,7 @@ export default Vue.extend({
         
 @media (max-width: 700px)
     .mil
-        padding: 50px 50px
+        padding: 20px 20px
     .con-mil
         .title
             font-size: 60px

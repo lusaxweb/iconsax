@@ -61,6 +61,7 @@ export default Vue.extend({
         color: rgba(0, 0, 0, 1)
 @media (max-width: 812px)
     .footer
+        padding-bottom: 20px
         .icons
             transform: translate(-50%, -50px)
 

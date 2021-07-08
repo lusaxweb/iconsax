@@ -1,25 +1,27 @@
 <template>
     <div class="slide">
-        <div class="text">
-            <div class="title">
-                Hello welcome to icon<b>sax</b>  <br> the oficial icons if the <br> <b>Vuesax</b>  framework
-            </div>
-            <div class="btns">
-                <a class="download" download href="/Iconsax.zip"><img src="/down2.svg" alt=""> Download all v1.0</a>
-                <a href="https://vuesax.com/" target="_blank" class="gray">
-                    See vuesax framework
-                </a>
-            </div>
-        </div>
-        <div class="icons">
-            <div class="con-icons1">
-                <div class="icon" v-for="i in 32" :key="i">
-                    <img :src="`/icons/a/${i}.svg`" alt="">
+        <div class="con-slide">
+            <div class="text">
+                <div class="title">
+                    Hello welcome to icon<b>sax</b>  <br> the oficial icons if the <br> <b>Vuesax</b>  framework
+                </div>
+                <div class="btns">
+                    <a class="download" download href="/Iconsax.zip"><img src="/down2.svg" alt=""> Download all v1.0</a>
+                    <a href="https://vuesax.com/" target="_blank" class="gray">
+                        See Vuesax Framework
+                    </a>
                 </div>
             </div>
-            <div class="con-icons2">
-                <div v-show="i > 40" class="icon" v-for="i in 54" :key="i">
-                    <img :src="`/icons/a/${i}.svg`" alt="">
+            <div class="icons">
+                <div class="con-icons1">
+                    <div class="icon" v-for="i in 32" :key="i">
+                        <img :src="`/icons/a/${i}.svg`" alt="">
+                    </div>
+                </div>
+                <div class="con-icons2">
+                    <div v-show="i > 40" class="icon" v-for="i in 54" :key="i">
+                        <img :src="`/icons/a/${i}.svg`" alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -36,15 +38,21 @@ export default Vue.extend({
 <style lang="sass">
 .slide
     display: flex
-    padding-bottom: 100px
     align-items: center
     justify-content: center
     padding-top: 50px
-    .icons
-        width: 50vw
+    .con-slide
         display: flex
+        padding-bottom: 100px
         align-items: center
         justify-content: center
+        max-width: 1400px
+        width: 100%
+    .icons
+        width: 50%
+        display: flex
+        align-items: center
+        justify-content: flex-end
         position: relative
         .con-icons1
             width: 420px
@@ -83,7 +91,7 @@ export default Vue.extend({
                 align-items: center
                 justify-content: center
     .text
-        width: 50vw
+        width: 50%
         max-width: 650px
         .title
             font-size: 50px
@@ -100,7 +108,7 @@ export default Vue.extend({
         padding: 14px 24px
         background: rgba(23, 82, 254, 1)
         border: 0px
-        border-radius: 16px
+        border-radius: 18px
         color: rgba(255, 255, 255, 1)
         margin: 10px 5px
         position: relative
@@ -135,7 +143,8 @@ export default Vue.extend({
                 transform: translate(0,120px)
 @media (max-width: 1050px)
     .slide
-        flex-direction: column
+        .con-slide
+            flex-direction: column
         .text
             width: 100vw
             max-width: 100vw

@@ -78,6 +78,8 @@ export default Vue.extend({
 
 <style lang="sass" scoped>
 .download
+    max-width: 1800px
+    margin: auto
     .title
         padding: 0px 40px
         transform: translate(0, 25px)

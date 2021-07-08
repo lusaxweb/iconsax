@@ -69,6 +69,9 @@ export default Vue.extend({
                 display: block
                 opacity: .5
                 color: -color('text')
+                transition: all .25s ease
+                &:hover
+                    opacity: 1
 @media (max-width: 540px)
     .navbar .actions .links
         display: none
