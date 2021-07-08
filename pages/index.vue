@@ -47,7 +47,8 @@ export default Vue.extend({
       z-index: 100
       background-image: linear-gradient(180deg, rgba(0,0,0,0.0) 0%,rgba(255,255,255,1) 100%)
 
-@media (max-width: 800px)
+@supports (-webkit-touch-callout: none) 
+  /* CSS specific to iOS devices */ 
   .landing
     &:after, &:before
       display: none
