@@ -2,7 +2,7 @@
     <div class="slide">
         <div class="text">
             <div class="title">
-                Hello welcome to icon<b>sax</b>  <br> the oficial icons if the <br> <b>Vuesax</b>  framework
+                Hello welcome to icon<b>sax</b>  <br> the official icons of the <br> <b>Vuesax</b>  framework
             </div>
             <div class="btns">
                 <a class="download" download href="/Iconsax.zip"><img src="/down2.svg" alt=""> Download all v1.0</a>
