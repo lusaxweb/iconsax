@@ -28,10 +28,10 @@
                     .CSS
                 </span>
             </a>
-            <a download="iconsax-flutter.zip" href="/Iconsax/flutter.zip" class="card">
+            <a target="_blank" href="https://pub.dev/packages/iconsax" class="card">
                 <img src="/logos_herramientas/iconsax-flutter.svg" width="85px" alt="">
                 <span>
-                    .dart
+                    Flutter
                 </span>
             </a>
             <a download="iconsax-svg.zip" href="/Iconsax/Svg.zip" class="card">

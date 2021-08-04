@@ -1,15 +1,20 @@
 <template>
     <div class="slide">
-        <div class="con-slide">
-            <div class="text">
-                <div class="title">
-                    Hello welcome to icon<b>sax</b>  <br> the oficial icons if the <br> <b>Vuesax</b>  framework
-                </div>
-                <div class="btns">
-                    <a class="download" download href="/Iconsax.zip"><img src="/down2.svg" alt=""> Download all v1.0</a>
-                    <a href="https://vuesax.com/" target="_blank" class="gray">
-                        See Vuesax Framework
-                    </a>
+        <div class="text">
+            <div class="title">
+                Hello welcome to icon<b>sax</b>  <br> the official icons of the <br> <b>Vuesax</b>  framework
+            </div>
+            <div class="btns">
+                <a class="download" download href="/Iconsax.zip"><img src="/down2.svg" alt=""> Download all v1.0</a>
+                <a href="https://vuesax.com/" target="_blank" class="gray">
+                    See vuesax framework
+                </a>
+            </div>
+        </div>
+        <div class="icons">
+            <div class="con-icons1">
+                <div class="icon" v-for="i in 40" :key="i">
+                    <img :src="`/icons/${i}.svg`" alt="">
                 </div>
             </div>
             <div class="icons">
