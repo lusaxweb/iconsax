@@ -11,12 +11,6 @@
                 </a>
             </div>
         </div>
-        <div class="icons">
-            <div class="con-icons1">
-                <div class="icon" v-for="i in 40" :key="i">
-                    <img :src="`/icons/${i}.svg`" alt="">
-                </div>
-            </div>
             <div class="icons">
                 <div class="con-icons1">
                     <div class="icon" v-for="i in 32" :key="i">
@@ -29,7 +23,6 @@
                     </div>
                 </div>
             </div>
-        </div>
     </div>
 </template>
 
