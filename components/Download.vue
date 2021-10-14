@@ -34,6 +34,12 @@
                     Flutter
                 </span>
             </a>
+            <a target="_blank" href="https://www.npmjs.com/package/react-native-iconsax" class="card">
+                <img src="/logos_herramientas/iconsax-react-native.svg" width="85px" alt="">
+                <span>
+                    React Native
+                </span>
+            </a>
             <a download="iconsax-svg.zip" href="/Iconsax/Svg.zip" class="card">
                 <img src="/logos_herramientas/iconsax-svg.svg" width="90px" alt="">
                 <span>
