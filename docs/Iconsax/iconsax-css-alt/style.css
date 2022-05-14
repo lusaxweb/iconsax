@@ -1,0 +1,19 @@
+@import url('./fonts/bold/bold.css');
+@import url('./fonts/broken/broken.css');
+@import url('./fonts/bulk/bulk.css');
+@import url('./fonts/twotone/twotone.css');
+@import url('./fonts/outline/outline.css');
+
+[class^="isax-"], [class*=" isax-"]{
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
