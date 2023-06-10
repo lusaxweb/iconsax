@@ -29,3 +29,5 @@
 
 ### RECOMMENDATION
 If you use only one icon style at a time, you shouldn't store other font files due to page loading speed. And it is recomended to make them minified.
+
+[Live Presentation](https://iconsax-presentation.vercel.app/)
